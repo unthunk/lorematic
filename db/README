@@ -1,0 +1,5 @@
+You will need to set up a database to use lorematic.  The code is preconfigured to use a MYSQL database named `lorematic`.
+
+After creating and switching to the database, run the phrases sql to set up the phrases table where your lorem ipsum text will be stored.
+
+Your phrases can consist of whatever you want, but you will want to omit trailing punctuation as the loremtic code will automatically punctuate the sentances it generates.
