@@ -18,7 +18,7 @@ Lorematic is a Lorem Ipsum generator built using [CodeIgniter](http://http://cod
 
 ### MIT License
 
-Copyright (c) 2008-2012 Lucas Myers
+Copyright (c) 2012 Lucas Myers
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
